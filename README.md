@@ -3,10 +3,13 @@
 This is a set of jupyter notebooks with the aim of guiding experimenters on how to analyze data from experiments involving the SE-SPS and CeBrA. The guide includes instructions on how to perform energy calibration for both the SE-SPS and CeBrA, to gain-match and combine the CeBrA spectra, and to normalize and combine SE-SPS data with differing magnetic settings. The end goal is to create a particle-gamma coincidence matrix. For the user, the procedure is outlined completely in 'cebra_sps_analysis.ipynb' with 'xavgnormalization.ipynb' and 'checkinggainmatch.ipynb' providing supplementary code for checking one's work. The following programs are necessary for this analysis, with the installation included in the github accounts listed.
 
 ## Programs Used
+
 1. HDTV: https://github.com/janmayer/hdtv
 2. SPS_CeBrA_EventBuilder: https://github.com/alconley/SPS_CEBRA_EventBuilder
    
 ## System Requirements
+
+For HDTV:
 - To build and run HDTV, the following dependencies are required:
     Python
         Tested with 3.8, 3.9, 3.10, and 3.11
