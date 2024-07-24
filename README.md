@@ -6,6 +6,7 @@ This is a set of jupyter notebooks with the aim of guiding experimenters on how 
 
 1. HDTV: https://github.com/janmayer/hdtv
 2. SPS_CeBrA_EventBuilder: https://github.com/alconley/SPS_CEBRA_EventBuilder
+3. Python 3: However you want to download it.
    
 ## System Requirements
 
@@ -29,6 +30,7 @@ For python analysis:
 - Pandas
 - SciPy
 - NumPy
+- PyROOT
   
 For EventBuilder:
 - Requires ROOT >= 6.22.04 for C++17 support
