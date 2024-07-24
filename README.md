@@ -6,7 +6,6 @@ This is a set of jupyter notebooks with the aim of guiding experimenters on how 
 
 1. HDTV: https://github.com/janmayer/hdtv
 2. SPS_CeBrA_EventBuilder: https://github.com/alconley/SPS_CEBRA_EventBuilder
-3. Python 3: However you want to download it.
    
 ## System Requirements
 
