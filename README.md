@@ -26,6 +26,9 @@ For HDTV:
 
 For python analysis:
 - Python 3.8 or greater
+- Pandas
+- SciPy
+- NumPy
   
 For EventBuilder:
 - Requires ROOT >= 6.22.04 for C++17 support
